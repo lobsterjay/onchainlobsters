@@ -4,8 +4,8 @@ pragma solidity ^0.8.17;
 
 import "hardhat/console.sol";
 
-contract WavePortal {
+contract lobstermojis {
     constructor() {
-        console.log("Yo yo, I am a contract and I am smart");
+        console.log("When life gives you ether, you buy lobster! - OnChainLobsters");
     }
 }
